@@ -3,8 +3,4 @@ pandas
 matplotlib
 seaborn
 warnings
-sklearn.model_selection
-sklearn.preprocessing MinMaxScaler
-sklearn.linear_model LogisticRegression
-sklearn.metrics  *
-
+sklearn
